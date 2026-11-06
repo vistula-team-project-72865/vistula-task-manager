@@ -15,5 +15,7 @@ Plain HTML, CSS and JavaScript hosted on GitHub Pages. Data is stored in a Supab
 
 ## Team collaboration (Pull Requests)
 
-- PR I made in my partner's repository: _TODO – add link_
-- PR from my partner merged into this repository: _TODO – add link_
+Partner: student 73586 (vistula-team-project-73586)
+
+- PR I made in my partner's repository: https://github.com/vistula-team-project-73586/vistula-task-manager/pull/1
+- PR from my partner merged into this repository: https://github.com/vistula-team-project-72865/vistula-task-manager/pull/1
